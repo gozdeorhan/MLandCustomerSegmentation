@@ -10,5 +10,5 @@ For predicting the desired outcome, it is seen that age, existing loans, educati
 
 In addition, a customer segmentation is done. It is seen that the customers who made the term deposit commitment is mostly in cluster number 1 and 2, thus they can be more inclined to buy new products! Focusing on group 1 and 2 may be more profitable for clients.
 
-- An PDF file regarding the outputs are uploaded as a seperate files for convenience.
+- A PDF file regarding the outputs are uploaded as a seperate files for convenience.
 - There are number of plots at the end of output files after NNET algorithm. 
